@@ -1,0 +1,230 @@
+just enjoy for free ;)
+
+------------------------
+Step 1: Grab your Phone/Laptop (doable of playstation Browser)
+
+Note: Requires minimal brain power
+
+Open 3 incognito tabs on your browser and do not close them until the end
+1. Email (for verification)
+2. Playstation
+3. Paypal (Playstation UK requires a payment method to subscribe for trial services)
+
+Links: 
+https://accounts.google.com/sigNup
+https://signup.live.com/
+https://www.playstation.com/en-gb/
+https://www.paypal.com/uk/webapps/mpp/account-sign-up
+
+Save the new Credentials in case its lost
+
+------------------------
+Step 2: Create Google Account 
+
+Note: Use medium length username as this email will be used every week with different iterations distinguished by dots in between.
+Lets take sofiasmith@gmail.com for example
+Sending an email to sofia.smith@gmail.com or even s.o.f.i.a.s.m.i.t.h@gmail.com will both reach the same address
+
+Alternatively, use disposable Microsoft accounts
+
+Change tab for Step 3
+
+------------------------
+Step 3: Create a Paypal Account.
+
+> SignUp 
+> Personal Account
+
+Country: 	United Kingdom
+Name: 		Names you can easily read out recommended e.g. Sofia Smith
+Email: 		Your new google/Microsoft email
+Password:	Any of your choosing
+
+> Continue
+
+Postcode: 	SW1A 1AA 
+Important: 	Enter postcode manually, do not choose from dropdown list. Postcode is case sensitive.
+Address Line 1: Any of your choosing
+City: 		London
+Phone Type: 	Home (change from "mobile phone" to "Home")
+Phone Number: 	+44 07XXXXXXXX
+Date of Birth: 	Any of your choosing
+Nationality: 	United Kingdom (default)
+
+> Check "I confirm that I have read, consent and agree to PayPal's..."
+
+> Agree and Create
+
+Change tab for Step 4
+
+------------------------
+Step 4: Create Playstation Account.
+
+> Sign in 
+> Create New Account 
+> Start
+
+Sign-In ID: 	Your new google/Microsoft email
+Password: 	Any of your choosing
+Re-enter Passowrd
+
+> Next 
+
+Country: 	United Kingdom (default)
+Language: 	English (default)
+Date of Birth:	Any of your choosing
+
+> Next 
+
+City:		London
+Province:	England
+Postcode:	SW1A 1AA 
+
+> Next 
+
+Online ID: 	Any of your choosing (may use suggestions)
+Name:		Any of your choosing (may use date of account creation in words to keep track easily)
+
+> Next 
+> Continue 
+> Agree and Create Account
+
+Complete capcha where required
+
+Verify Playstation account:
+
+Switch to Email tab used in Step 2
+Open Email with subject "Account Registration Confirmation" sent by playstation and click "Verify"
+
+Switch back to Playstation tab
+
+> Already Verified 
+> Skip (Add phone number)
+You are now redirected to Playstation Website
+
+------------------------
+Step 5: Link Paypal to Playstation
+
+> Click/tap on your avatar (top right corner) 
+> Payment Management
+
+Enter password to manage payments
+
+> Add Payment Method 
+> Add a paypal Accout
+
+Sign in with Credentials registered during step 3
+
+> Agree and Continue
+> Done
+
+------------------------
+Step 6: Add playstation account on Console
+
+Turn on PS4 and controller/Switch User
+
+> New User
+> Create a User
+> Accept
+> Next
+
+Sign in with Credentials registered during step 4
+
+> Next (Update Your Profile)
+> Next (Update Your Profile: Name)
+> Next (Update Your Profile: Privacy, Gaming)
+> Next (Update Your Profile: Privacy, Friends)
+> Next (Update Your Profile: Privacy, Personal Info)
+> Next (Cover Image)
+> Skip (Playstation Plus Advert)
+> OK
+> OK (Welcome to PS4!)
+
+Open Playstation Store
+Search "PS Now"
+
+> Choose Playstation Now: 7-Day Trial from search results
+> Subscribe (Free but requires a payment method. Hence Step 3&5)
+> Accept & Continue
+> Continue Shopping
+
+At this point you can also add 2 weeks PS Plus on this account (To play Online on Main Account).
+If you already pay for PS Plus, Skip to Step 7.
+
+Go to Search on Playstation Store.
+Playstation Plus: 14 Day Trial should be on Today's Top Searches & Subscribe.
+
+------------------------
+Step 7: 
+
+At this point you can remove the payment method so it can be used again next time.
+
+Head to the Playstation tab where it says "PayPal has been successfully added."
+Refer to Step 5
+
+> Choose the Paypal account listed on Payment Management
+
+Enter password to manage payments
+
+> Remove
+
+Are you sure you want to delete this payment method?
+
+> Yes
+
+------------------------
+Step 8: Set Account as Primary on your Console
+
+> Settings
+> Account Management
+> Activate as Your Primary PS4
+> Activate
+
+------------------------
+Step 9: Download your games
+
+Open PS Now on your home screen and download your games!
+
+CRUTIAL: Once downloaded, Open the game on the new account for a around 30sec.
+This is to make sure the licence for the game has been synchronized across the PS4.
+
+Log out of new Account (or not)
+Log into your Main Account and start PLAYing
+
+
+You can now close your tabs/browser
+------------------------
+
+Step 10 lists how to continue playing the same games by changing the licence without re-downloading the game but keeping your Game Saves
+
+------------------------
+Step 10a: Renew Game Licences part1
+
+Repeat Step 4 with sole variation
+Add a dot in between your username part of email 
+e.g. sofiasmi.th@gmail.com
+Complete Step 4
+
+Repeat Step 5 to 8
+------------------------
+Step 10b: Renew Game Licences Part2
+
+
+Important: Open PS Now on new account. Look for your games (currently locked on mMain Account)
+Choose "Download Game" (Doesnt Download game again, just renews licence)
+Wait a few secs and your licence is renewed
+
+------------------------
+Once Step 10b is done, you can delete the used disposable account (tidyness)
+
+------------------------
+Step X: Contribute :)
+
+paypal.me/LadWithThePlan
+
+
+
+
+This is just a text doc. It will soon be updated with a nice view and hyperlinks, may depend on contribution (or not)
+
+Drafted by LadWithThePlan on 4/20/2020
